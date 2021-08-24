@@ -38,3 +38,13 @@ ul {
     margin-left: 140px;
 
 }
+
+h1{
+    text-align: center;
+    font-family: 'Rampart One', cursive;
+}
+
+#product-link{
+    display: block;
+    text-align: center;
+}
