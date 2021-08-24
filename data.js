@@ -17,7 +17,7 @@ export const sneaker = [{
 {
     id: 3,
     name: 'Lebron 17',
-    image: '../assets/airmax-removebg-preview.png',
+    image: '../assets/lebron_17-removebg-preview.png',
     description: 'Space Jam Lebron 17 ',
     category: 'Lebron',
     price: 159.99
