@@ -27,5 +27,9 @@ export function shoeBuy(sneaker) {
     addButton.textContent = 'Add to Cart';
 
     listItem.append(h2, img, descriptionP, categoryP, priceP, addButton);
+    addButton.addEventListener('click', () => {
+        alert(` ${sneaker.name} has been added to your cart.`);
+    });
+
     return listItem;
 }
