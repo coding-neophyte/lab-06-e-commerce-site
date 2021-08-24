@@ -1,6 +1,6 @@
 export const sneaker = [{
     id: 1,
-    name: 'Blue Flints',
+    name: 'Jordan 13',
     image: '../assets/blueflints.png',
     description: 'Jordan 13 Retro Flint (Blue)',
     category: 'Air Jordan',
@@ -27,8 +27,8 @@ export const sneaker = [{
     name: 'Yeezy 700',
     image: '../assets/yezzy-removebg-preview.png',
     description: 'Yezzy 700 V3 Dark Glow',
-    category: 'Yeezy Collection',
-    price: 265.00
+    category: 'Yeezy',
+    price: 264.99
 
 },
 {
