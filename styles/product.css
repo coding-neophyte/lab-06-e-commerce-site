@@ -10,7 +10,7 @@ ul {
 
 .description {
     font-family: 'Roboto', sans-serif;
-    margin-left: 165px;
+    margin-left: 160px;
     text-decoration: underline;
 }
 
@@ -31,4 +31,10 @@ ul {
 .category{
     font-family: 'Roboto', sans-serif;
     margin-left: 218px;
+}
+
+.shoe-image{
+    width: 250px;
+    margin-left: 140px;
+
 }
