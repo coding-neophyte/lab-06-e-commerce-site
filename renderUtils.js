@@ -1,4 +1,4 @@
-
+import { addItemToCart } from '../cart/utils.js';
 export function shoeBuy(sneaker) {
     const listItem = document.createElement('li');
     const h2 = document.createElement('h2');
@@ -29,6 +29,8 @@ export function shoeBuy(sneaker) {
     listItem.append(h2, img, descriptionP, categoryP, priceP, addButton);
     addButton.addEventListener('click', () => {
         alert(` ${sneaker.name} has been added to your cart.`);
+        addItemToCart(sneaker.id);
+
     });
 
     return listItem;
