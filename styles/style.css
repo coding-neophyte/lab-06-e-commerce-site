@@ -150,3 +150,9 @@ tr:nth-child(even){
     background-color: green;
     border-radius: 10px;
 }
+
+#backToProducts{
+    margin-left: 45%;
+    margin-top: 40px;
+    font-size: 25px;
+}
