@@ -115,6 +115,7 @@ footer {
 thead{
     background-color: black;
     color: white;
+    height: 30px;
 }
 
 table{
