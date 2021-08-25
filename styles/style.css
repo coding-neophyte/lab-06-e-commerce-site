@@ -116,3 +116,36 @@ thead{
     background-color: black;
     color: white;
 }
+
+table{
+    width: 100%;
+    border: solid 1px black;
+}
+
+
+tr:nth-child(even){
+    background-color: lightgray;
+}
+
+.td-style{
+    border: solid 1px black;
+}
+
+.total-price{
+    border: solid 1px black;
+    background-color: lightblue;
+}
+#total{
+    border: solid 1px black;
+    background-color: lightpink;
+}
+
+#buy-now{
+    width:30%;
+    height:5%;
+    margin-top: 35px;
+    margin-left: 35%;
+    color:white;
+    background-color: green;
+    border-radius: 10px;
+}
