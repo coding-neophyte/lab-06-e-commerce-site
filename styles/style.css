@@ -156,3 +156,7 @@ tr:nth-child(even){
     margin-top: 40px;
     font-size: 25px;
 }
+
+p{
+    font-size: 100px;
+}
