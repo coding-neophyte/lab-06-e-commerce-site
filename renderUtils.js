@@ -1,4 +1,4 @@
-import { addItemToCart } from '../cart/utils.js';
+import { addItemToCart } from './cart/utils.js';
 export function shoeBuy(sneaker) {
     const listItem = document.createElement('li');
     const h2 = document.createElement('h2');
